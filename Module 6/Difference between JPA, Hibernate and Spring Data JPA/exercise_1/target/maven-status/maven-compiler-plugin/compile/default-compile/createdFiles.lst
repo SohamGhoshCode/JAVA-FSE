@@ -1,0 +1,5 @@
+com/example/persistencecomparison/repository/EmployeeRepository.class
+com/example/persistencecomparison/PersistenceComparisonApplication.class
+com/example/persistencecomparison/entity/Employee.class
+com/example/persistencecomparison/hibernate/HibernateEmployeeManager.class
+com/example/persistencecomparison/service/EmployeeService.class

@@ -1,0 +1,5 @@
+/Users/user/Desktop/JAVA FSE/Module 6/Difference between JPA, Hibernate and Spring Data JPA/exercise_1/src/main/java/com/example/persistencecomparison/PersistenceComparisonApplication.java
+/Users/user/Desktop/JAVA FSE/Module 6/Difference between JPA, Hibernate and Spring Data JPA/exercise_1/src/main/java/com/example/persistencecomparison/entity/Employee.java
+/Users/user/Desktop/JAVA FSE/Module 6/Difference between JPA, Hibernate and Spring Data JPA/exercise_1/src/main/java/com/example/persistencecomparison/hibernate/HibernateEmployeeManager.java
+/Users/user/Desktop/JAVA FSE/Module 6/Difference between JPA, Hibernate and Spring Data JPA/exercise_1/src/main/java/com/example/persistencecomparison/repository/EmployeeRepository.java
+/Users/user/Desktop/JAVA FSE/Module 6/Difference between JPA, Hibernate and Spring Data JPA/exercise_1/src/main/java/com/example/persistencecomparison/service/EmployeeService.java
